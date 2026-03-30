@@ -94,7 +94,7 @@ I merge **software engineering excellence** with **offensive security expertise*
 
 ---
 
-## ⚡ Red Team Lab Highlights
+## ⚡ Red Team Lab Highlights 
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD4lQxy7hXH1rBC/giphy.gif" alt="Hacking lab demo" width="400"/>
