@@ -73,15 +73,6 @@ I merge **software engineering excellence** with **offensive security expertise*
 
 ---
 
-## 📊 GitHub Stats & Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OffensiveBackend&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OffensiveBackend&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
 ## 🗺️ Career Roadmap
 
 <p align="center">
