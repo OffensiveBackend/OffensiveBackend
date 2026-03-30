@@ -92,16 +92,6 @@ I merge **software engineering excellence** with **offensive security expertise*
 
 - Goal: Combine **backend mastery** with **security expertise** for world-class impact  
 
----
-
-## ⚡ Red Team Lab Highlights 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4lQxy7hXH1rBC/giphy.gif" alt="Hacking lab demo" width="400"/>
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" alt="Penetration testing" width="400"/>
-</p>
-
----
 
 ## 💡 Fun Tip
 
