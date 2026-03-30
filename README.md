@@ -70,7 +70,7 @@ I merge **software excellence** with **ethical hacking expertise** to fully unde
 ## ⚡ Fun Tip
 
 I combine **robust software engineering** with **ethical hacking skills**:  
-> “Build systems that work flawlessly AND understand how to break them responsibly.”
+> “Build systems that work flawlessly + fail gracefully AND understand how to break them responsibly.”
 
 <p align="center">
   <img src="https://img.shields.io/badge/Security-RedTeam-red?style=for-the-badge&logo=hackthebox" alt="Red Team"/>
