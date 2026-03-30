@@ -2,7 +2,7 @@
 
 # OffensiveBackend
 
-## 🚀 Backend Engineer | 🔴 Red Team Learner
+## 🚀 Backend Engineer | 🔴 Red Team Learner ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Red+Teamer;Infrastructure+Hacker)
 
 I design and build scalable and robust backend systems while exploring their security vulnerabilities.
 
@@ -53,4 +53,3 @@ To become a **world-class backend engineer and cybersecurity expert**, capable o
 
 I merge two worlds: building software that works flawlessly + fails gracefully AND understanding how to break it responsibly.
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Red+Teamer;Infrastructure+Hacker)
